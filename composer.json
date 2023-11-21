@@ -1,0 +1,22 @@
+{
+    "name": "cmq2080/baidu_face_sdk",
+    "description": "Software Development KIt for Baidu Face",
+    "type": "library",
+    "keywords": [
+        "thinkphp",
+        "toolkit"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cmq2080",
+            "email": "1421224516@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "baidu_face\\": "src/"
+        }
+    }
+}
